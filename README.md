@@ -1,2 +1,1 @@
-# NeuralPhy
-NeuralPhy: Implementing Physics through Neural Networks.
+# NeuralPhy: Implementing Physics through Neural Networks.
